@@ -998,6 +998,7 @@ footer .body-3:last-child {
 footer {
   width: 100%;
   display: flex;
+  text-align: center;
   flex-direction: column;
   align-items: center;
   justify-items: center;
